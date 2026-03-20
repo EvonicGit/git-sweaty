@@ -5965,5 +5965,18 @@
     "start_date_local": "2026-03-17T06:52:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 2649.7,
+    "elevation_gain": 16.0,
+    "id": "17782136647",
+    "moving_time": 1326.0,
+    "name": "Assessment (6 min) [508CT/6]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-19T13:03:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
