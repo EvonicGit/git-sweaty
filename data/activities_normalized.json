@@ -5991,5 +5991,18 @@
     "start_date_local": "2026-04-01T13:54:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 3439.9,
+    "elevation_gain": 18.0,
+    "id": "17961113779",
+    "moving_time": 1682.0,
+    "name": "St Neots, Huntingdonshire",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T12:15:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
