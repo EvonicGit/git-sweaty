@@ -4166,6 +4166,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17972721909",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 12,
+      "name": "St Neots, Huntingdonshire",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17999067512",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8096,10 +8105,21 @@
           "elevation_gain": 7.6,
           "moving_time": 605.0
         }
+      },
+      "Walk": {
+        "2026-04-06": {
+          "activity_ids": [
+            "17999067512"
+          ],
+          "count": 1,
+          "distance": 3613.2,
+          "elevation_gain": 18.6,
+          "moving_time": 2727.0
+        }
       }
     }
   },
-  "generated_at": "2026-04-05T15:21:55.127428+00:00",
+  "generated_at": "2026-04-06T15:36:39.982731+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
