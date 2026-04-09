@@ -4184,6 +4184,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18027205777",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 13,
+      "name": "St Neots, Huntingdonshire \u2022 Training (economy) [529BZ/4]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18040281259",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8122,6 +8131,15 @@
           "distance": 1378.7,
           "elevation_gain": 4.8,
           "moving_time": 698.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18040281259"
+          ],
+          "count": 1,
+          "distance": 1042.3,
+          "elevation_gain": 5.6,
+          "moving_time": 541.0
         }
       },
       "Walk": {
@@ -8137,7 +8155,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T16:07:18.876228+00:00",
+  "generated_at": "2026-04-09T16:11:06.901605+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
