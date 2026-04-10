@@ -6056,5 +6056,18 @@
     "start_date_local": "2026-04-09T13:16:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 4748.3,
+    "elevation_gain": 22.5,
+    "id": "18051607222",
+    "moving_time": 2200.0,
+    "name": "Assessment (3.2 km) [532BR/2]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-10T10:24:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

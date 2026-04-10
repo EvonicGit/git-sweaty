@@ -4193,6 +4193,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18040281259",
       "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 10,
+      "name": "Assessment (3.2 km) [532BR/2]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18051607222",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8140,6 +8149,15 @@
           "distance": 1042.3,
           "elevation_gain": 5.6,
           "moving_time": 541.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18051607222"
+          ],
+          "count": 1,
+          "distance": 4748.3,
+          "elevation_gain": 22.5,
+          "moving_time": 2200.0
         }
       },
       "Walk": {
@@ -8155,7 +8173,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T16:11:06.901605+00:00",
+  "generated_at": "2026-04-10T15:40:17.673449+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
