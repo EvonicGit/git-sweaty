@@ -6069,5 +6069,31 @@
     "start_date_local": "2026-04-10T10:24:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18057738069",
+    "moving_time": 66.0,
+    "name": "Mind And Body",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-10T19:21:12Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18061135009",
+    "moving_time": 112.0,
+    "name": "Mind And Body",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-10T21:54:07Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
