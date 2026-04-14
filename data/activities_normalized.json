@@ -6108,5 +6108,18 @@
     "start_date_local": "2026-04-12T12:15:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 1069.8,
+    "elevation_gain": 5.2,
+    "id": "18103539280",
+    "moving_time": 552.0,
+    "name": "St Neots, Huntingdonshire \u2022 Training (economy) [538BW/3]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-14T12:45:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
