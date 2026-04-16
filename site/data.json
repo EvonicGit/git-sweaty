@@ -4238,6 +4238,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18103539280",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 13,
+      "name": "Training (economy) [540CA/2]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18132334794",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8212,6 +8221,15 @@
           "distance": 1069.8,
           "elevation_gain": 5.2,
           "moving_time": 552.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18132334794"
+          ],
+          "count": 1,
+          "distance": 1058.1,
+          "elevation_gain": 5.3,
+          "moving_time": 545.0
         }
       },
       "Walk": {
@@ -8239,7 +8257,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T15:57:45.943469+00:00",
+  "generated_at": "2026-04-16T16:15:37.941129+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
