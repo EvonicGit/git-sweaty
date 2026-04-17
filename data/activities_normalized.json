@@ -6134,5 +6134,31 @@
     "start_date_local": "2026-04-16T13:06:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 5692.6,
+    "elevation_gain": 15.6,
+    "id": "18142512465",
+    "moving_time": 1093.0,
+    "name": "St Neots, Huntingdonshire",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T09:26:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 5272.4,
+    "elevation_gain": 15.2,
+    "id": "18143066566",
+    "moving_time": 893.0,
+    "name": "St Neots, Huntingdonshire",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T10:54:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

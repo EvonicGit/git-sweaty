@@ -4247,6 +4247,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18132334794",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 9,
+      "name": "St Neots, Huntingdonshire",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18142512465",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 10,
+      "name": "St Neots, Huntingdonshire",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18143066566",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7987,6 +8005,18 @@
       }
     },
     "2026": {
+      "Ride": {
+        "2026-04-17": {
+          "activity_ids": [
+            "18142512465",
+            "18143066566"
+          ],
+          "count": 2,
+          "distance": 10965.0,
+          "elevation_gain": 30.799999999999997,
+          "moving_time": 1986.0
+        }
+      },
       "Run": {
         "2026-01-02": {
           "activity_ids": [
@@ -8257,7 +8287,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:15:37.941129+00:00",
+  "generated_at": "2026-04-17T15:48:18.592813+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
