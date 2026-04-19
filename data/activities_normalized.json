@@ -6173,5 +6173,18 @@
     "start_date_local": "2026-04-18T10:08:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 3687.2,
+    "elevation_gain": 19.6,
+    "id": "18172028132",
+    "moving_time": 1862.0,
+    "name": "Training (threshold) [548BU/6]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T13:26:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
