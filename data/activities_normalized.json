@@ -6186,5 +6186,18 @@
     "start_date_local": "2026-04-19T13:26:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 1265.6,
+    "elevation_gain": 5.3,
+    "id": "18211084738",
+    "moving_time": 663.0,
+    "name": "Training (economy) [550BR/6]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T13:09:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
