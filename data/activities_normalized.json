@@ -6212,5 +6212,18 @@
     "start_date_local": "2026-04-24T12:31:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 2381.5,
+    "elevation_gain": 8.7,
+    "id": "18251438844",
+    "moving_time": 1171.0,
+    "name": "Training (repetition) [554BM/5]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T11:56:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

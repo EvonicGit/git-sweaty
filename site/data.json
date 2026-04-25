@@ -4301,6 +4301,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18237986038",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 11,
+      "name": "Training (repetition) [554BM/5]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18251438844",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8332,6 +8341,15 @@
           "distance": 1033.7,
           "elevation_gain": 7.7,
           "moving_time": 546.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18251438844"
+          ],
+          "count": 1,
+          "distance": 2381.5,
+          "elevation_gain": 8.7,
+          "moving_time": 1171.0
         }
       },
       "Walk": {
@@ -8359,7 +8377,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T15:57:44.716507+00:00",
+  "generated_at": "2026-04-25T15:31:01.924244+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
