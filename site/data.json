@@ -4319,6 +4319,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18256886917",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 17,
+      "name": "Training (progression) [558BM/5]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18270097135",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-27",
+      "hour": 12,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18277651733",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-27",
+      "hour": 11,
+      "name": "Training (economy) [560BM/5]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18278084772",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8359,6 +8386,24 @@
           "distance": 2381.5,
           "elevation_gain": 8.7,
           "moving_time": 1171.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18270097135"
+          ],
+          "count": 1,
+          "distance": 3129.0,
+          "elevation_gain": 17.7,
+          "moving_time": 1503.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18278084772"
+          ],
+          "count": 1,
+          "distance": 1020.9,
+          "elevation_gain": 0.0,
+          "moving_time": 544.0
         }
       },
       "Walk": {
@@ -8381,6 +8426,17 @@
           "moving_time": 2118.0
         }
       },
+      "WeightTraining": {
+        "2026-04-27": {
+          "activity_ids": [
+            "18277651733"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1492.0
+        }
+      },
       "Workout": {
         "2026-04-10": {
           "activity_ids": [
@@ -8395,7 +8451,7 @@
       }
     }
   },
-  "generated_at": "2026-04-26T15:33:05.105494+00:00",
+  "generated_at": "2026-04-27T16:18:03.339477+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
@@ -8442,6 +8498,10 @@
       "accent": "#d6ff6b",
       "label": "Walk"
     },
+    "WeightTraining": {
+      "accent": "#ff71ce",
+      "label": "Weight Training"
+    },
     "Workout": {
       "accent": "#ff8a5b",
       "label": "Other Workout"
@@ -8458,6 +8518,7 @@
     "StairStepper",
     "VirtualRide",
     "Walk",
+    "WeightTraining",
     "Workout"
   ],
   "units": {

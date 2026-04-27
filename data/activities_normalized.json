@@ -6238,5 +6238,44 @@
     "start_date_local": "2026-04-25T17:36:31Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 3129.0,
+    "elevation_gain": 17.7,
+    "id": "18270097135",
+    "moving_time": 1503.0,
+    "name": "Training (progression) [558BM/5]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T17:53:17Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18277651733",
+    "moving_time": 1492.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-27T12:14:39Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 1020.9,
+    "elevation_gain": 0.0,
+    "id": "18278084772",
+    "moving_time": 544.0,
+    "name": "Training (economy) [560BM/5]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T11:57:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
