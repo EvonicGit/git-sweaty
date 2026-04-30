@@ -4346,6 +4346,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18278084772",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 12,
+      "name": "Indoor Running",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18316888737",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 13,
+      "name": "Functional Strength Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18316888742",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 12,
+      "name": "Indoor Cycling",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18316888765",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8096,6 +8123,15 @@
           "distance": 10965.0,
           "elevation_gain": 30.799999999999997,
           "moving_time": 1986.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18316888765"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 32.0
         }
       },
       "Run": {
@@ -8404,6 +8440,15 @@
           "distance": 1020.9,
           "elevation_gain": 0.0,
           "moving_time": 544.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18316888737"
+          ],
+          "count": 1,
+          "distance": 1879.0,
+          "elevation_gain": 0.0,
+          "moving_time": 904.0
         }
       },
       "Walk": {
@@ -8435,6 +8480,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1492.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18316888742"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1198.0
         }
       },
       "Workout": {
@@ -8451,7 +8505,7 @@
       }
     }
   },
-  "generated_at": "2026-04-29T16:23:01.225198+00:00",
+  "generated_at": "2026-04-30T16:12:22.520051+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",

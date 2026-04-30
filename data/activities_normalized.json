@@ -6277,5 +6277,44 @@
     "start_date_local": "2026-04-27T11:57:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 1879.0,
+    "elevation_gain": 0.0,
+    "id": "18316888737",
+    "moving_time": 904.0,
+    "name": "Indoor Running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-29T12:50:10Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18316888742",
+    "moving_time": 1198.0,
+    "name": "Functional Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-29T13:07:50Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18316888765",
+    "moving_time": 32.0,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-29T12:41:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
