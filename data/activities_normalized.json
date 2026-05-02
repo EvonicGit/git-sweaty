@@ -6316,5 +6316,18 @@
     "start_date_local": "2026-04-29T12:41:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 5498.2,
+    "elevation_gain": 13.4,
+    "id": "18347082782",
+    "moving_time": 4428.0,
+    "name": "Sunshine walk in Cambridge / Grantchester, stopping at The Green Man",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-02T13:21:29Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
