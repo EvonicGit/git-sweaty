@@ -6329,5 +6329,44 @@
     "start_date_local": "2026-05-02T13:21:29Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 3462.6,
+    "elevation_gain": 3.1,
+    "id": "18357421611",
+    "moving_time": 2702.0,
+    "name": "Grantchester, South Cambridgeshire / Cambridge",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-02T15:45:39Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18359174503",
+    "moving_time": 1250.0,
+    "name": "Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-03T13:15:32Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 5428.4,
+    "elevation_gain": 0.0,
+    "id": "18359174600",
+    "moving_time": 2601.0,
+    "name": "Training (economy) [571BL/1]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T12:20:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

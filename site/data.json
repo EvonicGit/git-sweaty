@@ -4382,6 +4382,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18347082782",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 15,
+      "name": "Grantchester, South Cambridgeshire / Cambridge",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18357421611",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 13,
+      "name": "Strength Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18359174503",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 12,
+      "name": "Training (economy) [571BL/1]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18359174600",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8458,6 +8485,15 @@
           "distance": 1879.0,
           "elevation_gain": 0.0,
           "moving_time": 904.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18359174600"
+          ],
+          "count": 1,
+          "distance": 5428.4,
+          "elevation_gain": 0.0,
+          "moving_time": 2601.0
         }
       },
       "Walk": {
@@ -8481,12 +8517,13 @@
         },
         "2026-05-02": {
           "activity_ids": [
-            "18347082782"
+            "18347082782",
+            "18357421611"
           ],
-          "count": 1,
-          "distance": 5498.2,
-          "elevation_gain": 13.4,
-          "moving_time": 4428.0
+          "count": 2,
+          "distance": 8960.8,
+          "elevation_gain": 16.5,
+          "moving_time": 7130.0
         }
       },
       "WeightTraining": {
@@ -8507,6 +8544,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1198.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18359174503"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1250.0
         }
       },
       "Workout": {
@@ -8523,7 +8569,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:36:52.196810+00:00",
+  "generated_at": "2026-05-03T15:36:44.284514+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
