@@ -4359,7 +4359,7 @@
     {
       "date": "2026-04-29",
       "hour": 13,
-      "name": "Functional Strength Training",
+      "name": "Strength Training",
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18316888742",
@@ -4408,6 +4408,15 @@
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18359174600",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 11,
+      "name": "Training (economy) [575BH/5]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18371124966",
       "year": 2026
     }
   ],
@@ -8494,6 +8503,15 @@
           "distance": 5428.4,
           "elevation_gain": 0.0,
           "moving_time": 2601.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18371124966"
+          ],
+          "count": 1,
+          "distance": 3177.4,
+          "elevation_gain": 18.9,
+          "moving_time": 1624.0
         }
       },
       "Walk": {
@@ -8569,7 +8587,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T15:36:44.284514+00:00",
+  "generated_at": "2026-05-04T16:25:04.425797+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
