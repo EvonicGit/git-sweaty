@@ -4454,6 +4454,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18422388925",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 12,
+      "name": "Training (economy) [584BF/10]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18451153391",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8566,6 +8575,15 @@
           "distance": 5935.5,
           "elevation_gain": 33.7,
           "moving_time": 2899.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18451153391"
+          ],
+          "count": 1,
+          "distance": 1776.9,
+          "elevation_gain": 5.6,
+          "moving_time": 903.0
         }
       },
       "Walk": {
@@ -8659,7 +8677,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:39:56.214413+00:00",
+  "generated_at": "2026-05-10T15:41:29.250127+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",

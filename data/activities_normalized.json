@@ -6433,5 +6433,18 @@
     "start_date_local": "2026-05-08T08:50:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 1776.9,
+    "elevation_gain": 5.6,
+    "id": "18451153391",
+    "moving_time": 903.0,
+    "name": "Training (economy) [584BF/10]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T12:16:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
