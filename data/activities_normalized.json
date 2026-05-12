@@ -6446,5 +6446,44 @@
     "start_date_local": "2026-05-10T12:16:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 3249.7,
+    "elevation_gain": 16.3,
+    "id": "18467486720",
+    "moving_time": 1625.0,
+    "name": "St Neots, Huntingdonshire \u2022 Training (interval) [586BF/6]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-11T19:04:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 1010.1,
+    "elevation_gain": 0.0,
+    "id": "18477291746",
+    "moving_time": 541.0,
+    "name": "Training (economy) [588BF/3]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T13:52:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18479651030",
+    "moving_time": 2633.0,
+    "name": "Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-12T14:08:00Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
