@@ -6498,5 +6498,18 @@
     "start_date_local": "2026-05-14T15:00:13Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 3648.6,
+    "elevation_gain": 17.6,
+    "id": "18515310325",
+    "moving_time": 1861.0,
+    "name": "St Neots, Huntingdonshire \u2022 Training (interval) [593BF/6]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T11:41:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
