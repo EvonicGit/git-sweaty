@@ -6537,5 +6537,44 @@
     "start_date_local": "2026-05-17T12:23:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 6060.0,
+    "elevation_gain": 34.1,
+    "id": "18558895960",
+    "moving_time": 2879.0,
+    "name": "Training (threshold) [599BD/9]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-18T18:43:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 995.0,
+    "elevation_gain": 0.0,
+    "id": "18566883334",
+    "moving_time": 572.0,
+    "name": "Training (economy) [601BE/1]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T12:20:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18567233356",
+    "moving_time": 2746.0,
+    "name": "Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-19T12:34:15Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
