@@ -6576,5 +6576,31 @@
     "start_date_local": "2026-05-19T12:34:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 1064.3,
+    "elevation_gain": 0.0,
+    "id": "18580930488",
+    "moving_time": 542.0,
+    "name": "Training (economy) [604BF/7]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-20T12:43:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18581228135",
+    "moving_time": 2641.0,
+    "name": "Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-20T12:57:26Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
