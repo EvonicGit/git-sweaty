@@ -6615,5 +6615,18 @@
     "start_date_local": "2026-05-21T12:47:13Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 3319.2,
+    "elevation_gain": 17.7,
+    "id": "18612770918",
+    "moving_time": 1727.0,
+    "name": "Training (repetition) [609BD/7]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T20:02:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
