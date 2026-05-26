@@ -4607,6 +4607,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18644426678",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 7,
+      "name": "St Neots, Huntingdonshire \u2022 Training (interval) [614BE/4]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18657612113",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8809,6 +8818,15 @@
           "distance": 7071.7,
           "elevation_gain": 27.6,
           "moving_time": 3653.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18657612113"
+          ],
+          "count": 1,
+          "distance": 4648.3,
+          "elevation_gain": 23.7,
+          "moving_time": 2405.0
         }
       },
       "Walk": {
@@ -8965,7 +8983,7 @@
       }
     }
   },
-  "generated_at": "2026-05-25T16:57:27.997047+00:00",
+  "generated_at": "2026-05-26T17:51:00.370418+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
