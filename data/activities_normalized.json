@@ -6719,5 +6719,31 @@
     "start_date_local": "2026-05-29T09:13:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18718620694",
+    "moving_time": 4426.0,
+    "name": "Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-30T16:40:26Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 3446.0,
+    "elevation_gain": 18.9,
+    "id": "18719980178",
+    "moving_time": 2284.0,
+    "name": "Recovery walk after tough leg day in the gym",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-30T20:05:16Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
