@@ -6745,5 +6745,18 @@
     "start_date_local": "2026-05-30T20:05:16Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 2798.0,
+    "elevation_gain": 15.9,
+    "id": "18744983966",
+    "moving_time": 1387.0,
+    "name": "Training (tabata) [626BA/3]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-01T18:21:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
