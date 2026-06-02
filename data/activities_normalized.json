@@ -6758,5 +6758,18 @@
     "start_date_local": "2026-06-01T18:21:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 8103.1,
+    "elevation_gain": 33.8,
+    "id": "18759336572",
+    "moving_time": 3994.0,
+    "name": "Over 1 hr Training (progression) [628Z/5]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T17:53:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
