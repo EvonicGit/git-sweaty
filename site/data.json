@@ -4688,6 +4688,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18759336572",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 17,
+      "name": "Strength Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18773227651",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9111,6 +9120,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4426.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18773227651"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2435.0
         }
       },
       "Workout": {
@@ -9127,7 +9145,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:29:39.545634+00:00",
+  "generated_at": "2026-06-03T18:39:00.777845+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
