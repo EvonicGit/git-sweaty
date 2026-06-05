@@ -6784,5 +6784,44 @@
     "start_date_local": "2026-06-03T17:06:41Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 1593.5,
+    "elevation_gain": 9.4,
+    "id": "18788077188",
+    "moving_time": 1145.0,
+    "name": "Assessment (Perceived Effort) [630BA/8]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T18:57:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 3175.2,
+    "elevation_gain": 0.0,
+    "id": "18798198795",
+    "moving_time": 1503.0,
+    "name": "Training (economy) [633Z/6]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T16:04:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18798728692",
+    "moving_time": 2479.0,
+    "name": "Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-05T16:33:18Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
