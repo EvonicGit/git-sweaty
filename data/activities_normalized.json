@@ -6836,5 +6836,18 @@
     "start_date_local": "2026-06-07T14:38:18Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 7441.6,
+    "elevation_gain": 41.6,
+    "id": "18855255063",
+    "moving_time": 3723.0,
+    "name": "Training (threshold) [638BD/2]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T18:57:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
