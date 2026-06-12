@@ -4769,6 +4769,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18880144788",
       "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 13,
+      "name": "Training (economy) [659BA/5]",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18892043020",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 13,
+      "name": "Strength Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18892043051",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9052,6 +9070,15 @@
           "distance": 1883.4,
           "elevation_gain": 0.0,
           "moving_time": 845.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18892043020"
+          ],
+          "count": 1,
+          "distance": 1276.9,
+          "elevation_gain": 0.0,
+          "moving_time": 609.0
         }
       },
       "Walk": {
@@ -9273,6 +9300,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2401.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18892043051"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1404.0
         }
       },
       "Workout": {
@@ -9289,7 +9325,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T17:59:56.814614+00:00",
+  "generated_at": "2026-06-12T17:29:56.557610+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
