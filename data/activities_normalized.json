@@ -6927,5 +6927,44 @@
     "start_date_local": "2026-06-12T18:49:05Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18925141460",
+    "moving_time": 2778.0,
+    "name": "Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-14T11:57:10Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18929001837",
+    "moving_time": 2700.0,
+    "name": "Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-15T13:10:21Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 3019.7,
+    "elevation_gain": 18.9,
+    "id": "18943843841",
+    "moving_time": 1443.0,
+    "name": "Assessment (6 min) [668V/6]",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T13:10:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
