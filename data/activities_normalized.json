@@ -6992,5 +6992,31 @@
     "start_date_local": "2026-06-20T20:37:12Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 1672.0,
+    "elevation_gain": 38.3,
+    "id": "19036751383",
+    "moving_time": 2353.0,
+    "name": "Coleford",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-23T14:09:26Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 2467.5,
+    "elevation_gain": 49.5,
+    "id": "19036751486",
+    "moving_time": 2985.0,
+    "name": "West Dean, Forest of Dean / Cinderford",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-23T11:39:38Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
