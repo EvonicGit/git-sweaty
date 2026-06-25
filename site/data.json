@@ -4859,6 +4859,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19036751486",
       "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 12,
+      "name": "Coleford, Forest of Dean / English Bicknor, Forest of Dean",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19061328856",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9272,6 +9281,15 @@
           "distance": 4139.5,
           "elevation_gain": 87.8,
           "moving_time": 5338.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19061328856"
+          ],
+          "count": 1,
+          "distance": 2597.1,
+          "elevation_gain": 43.0,
+          "moving_time": 2208.0
         }
       },
       "WeightTraining": {
@@ -9461,7 +9479,7 @@
       }
     }
   },
-  "generated_at": "2026-06-24T16:58:20.698609+00:00",
+  "generated_at": "2026-06-25T17:03:06.579446+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/66901755",
   "repo": "EvonicGit/git-sweaty",
