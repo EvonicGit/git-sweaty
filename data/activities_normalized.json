@@ -7057,5 +7057,18 @@
     "start_date_local": "2026-06-27T17:22:00Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 4078.3,
+    "elevation_gain": 3.3,
+    "id": "19101275339",
+    "moving_time": 3071.0,
+    "name": "St Neots, Huntingdonshire / St Neots",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-28T17:13:05Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
